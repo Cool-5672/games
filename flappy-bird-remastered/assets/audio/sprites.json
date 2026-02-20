@@ -1,0 +1,82 @@
+﻿{
+    "click":  {
+                  "duration":  0.082925,
+                  "end":  0.0829,
+                  "start":  0
+              },
+    "CoinCollect1":  {
+                         "duration":  0.182857,
+                         "end":  0.3658,
+                         "start":  0.1829
+                     },
+    "CoinCollect2":  {
+                         "duration":  0.435397,
+                         "end":  0.9012,
+                         "start":  0.4658
+                     },
+    "countdown":  {
+                      "duration":  3.552018,
+                      "end":  4.5532,
+                      "start":  1.0012
+                  },
+    "denied":  {
+                   "duration":  0.563878,
+                   "end":  5.2171,
+                   "start":  4.6532
+               },
+    "error":  {
+                  "duration":  0.407982,
+                  "end":  5.7251,
+                  "start":  5.3171
+              },
+    "GameOver":  {
+                     "duration":  1.872018,
+                     "end":  7.6971,
+                     "start":  5.8251
+                 },
+    "gamestart":  {
+                      "duration":  2.88,
+                      "end":  10.6771,
+                      "start":  7.7971
+                  },
+    "Jump":  {
+                 "duration":  0.406349,
+                 "end":  11.1834,
+                 "start":  10.7771
+             },
+    "level_up":  {
+                     "duration":  2.832517,
+                     "end":  14.1159,
+                     "start":  11.2834
+                 },
+    "pause":  {
+                  "duration":  0.461542,
+                  "end":  14.6774,
+                  "start":  14.2159
+              },
+    "powerup":  {
+                    "duration":  0.548571,
+                    "end":  15.326,
+                    "start":  14.7774
+                },
+    "powerup2":  {
+                     "duration":  1.92,
+                     "end":  17.346,
+                     "start":  15.426
+                 },
+    "select":  {
+                   "duration":  0.230385,
+                   "end":  17.6764,
+                   "start":  17.446
+               },
+    "select2":  {
+                    "duration":  0.290272,
+                    "end":  18.0667,
+                    "start":  17.7764
+                },
+    "warning":  {
+                    "duration":  0.570408,
+                    "end":  18.7371,
+                    "start":  18.1667
+                }
+}
